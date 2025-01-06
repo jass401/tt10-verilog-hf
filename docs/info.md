@@ -9,11 +9,10 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
-
+performs half adder operation
 ## How to test
 
-Explain how to use your project
+Evhghhhu
 
 ## External hardware
 
